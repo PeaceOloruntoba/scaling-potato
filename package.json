@@ -1,0 +1,28 @@
+{
+  "name": "scaling-potato",
+  "version": "1.0.0",
+  "description": "A Node.js script that connects to BNB Testnet",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeaceOloruntoba/scaling-potato.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/PeaceOloruntoba/scaling-potato/issues"
+  },
+  "homepage": "https://github.com/PeaceOloruntoba/scaling-potato#readme",
+  "dependencies": {
+    "ethers": "^6.15.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
