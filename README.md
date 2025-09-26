@@ -61,7 +61,7 @@ USDT_ADDRESS=0x337610d27c682E347C9cD60BD4b3b107C9d34dDd
 Start monitoring with:
 
 ```bash
-node monitor.js
+node index.js
 ```
 
 You should see:
